@@ -1,0 +1,1 @@
+This folder contains all documentation for Vanik, including milestones, business plans, architecture, and research.
